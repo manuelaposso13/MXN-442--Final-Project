@@ -11,8 +11,7 @@ The project evaluates and improves several models:
 - **Logistic Regression** (baseline interpretability)
 - **Decision Tree** (non-linear interpretability)
 - **Random Forest** (ensemble learning)
-- **Gradient Boosting**
-- **Neural Network**
+- - **Neural Network**
 - **Baseline comparison: SVM (Nguyen et al., 2022)**
 
 Further refinements included:
